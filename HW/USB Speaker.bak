@@ -656,8 +656,6 @@ Wire Wire Line
 	8100 3650 7850 3650
 Connection ~ 7850 3650
 Wire Wire Line
-	8100 4000 8150 4000
-Wire Wire Line
 	8100 4150 8100 4000
 Connection ~ 7850 4150
 Wire Wire Line
@@ -785,9 +783,9 @@ Wire Wire Line
 Wire Wire Line
 	4200 1100 7550 1100
 Wire Wire Line
-	7850 850  8900 850 
+	7850 850  9400 850 
 Wire Wire Line
-	7850 1100 8900 1100
+	7850 1100 9400 1100
 Wire Wire Line
 	6200 1200 6200 850 
 Connection ~ 6200 850 
@@ -848,10 +846,6 @@ Wire Wire Line
 	3800 4900 3800 5450
 Wire Wire Line
 	3800 5450 2850 5450
-Text GLabel 8900 850  2    60   Input ~ 0
-Vout_L
-Text GLabel 8900 1100 2    60   Input ~ 0
-Vout_R
 Wire Wire Line
 	2800 3400 2050 3400
 Wire Wire Line
@@ -896,13 +890,13 @@ F 3 "" H 750 4450 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	750  4450 750  4350
-Text GLabel 2850 5450 0    60   Input ~ 0
-SSPNDn
 $Sheet
 S 9400 600  1750 1150
 U 5B21AA06
 F0 "Speaker Op-Amp Circuit" 60
 F1 "USB_Speaker_page2.sch" 60
+F2 "Vin_R" I L 9400 850 60 
+F3 "Vin_L" I L 9400 1100 60 
 $EndSheet
 NoConn ~ 5850 4000
 NoConn ~ 5850 4200
@@ -927,4 +921,6 @@ $EndComp
 Wire Wire Line
 	5650 2500 5650 3000
 Connection ~ 5650 3000
+Text Label 2850 5450 0    60   ~ 0
+SSPNDn
 $EndSCHEMATC
