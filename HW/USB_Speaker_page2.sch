@@ -608,13 +608,11 @@ Wire Wire Line
 	5200 2900 5200 2700
 Connection ~ 5200 2700
 Wire Wire Line
-	3400 2050 3400 2500
-Wire Wire Line
 	3400 1750 3400 1650
 Wire Wire Line
-	3400 2300 3600 2300
+	2700 2300 3600 2300
 Wire Wire Line
-	3400 2500 3600 2500
+	3300 2500 3600 2500
 Connection ~ 3400 2300
 Wire Wire Line
 	3300 4700 3600 4700
@@ -709,8 +707,6 @@ Wire Wire Line
 Wire Wire Line
 	6200 3200 6200 3100
 Wire Wire Line
-	5800 3100 6400 3100
-Wire Wire Line
 	6400 3100 6400 3400
 Wire Wire Line
 	6400 3400 6500 3400
@@ -724,7 +720,7 @@ L Ferrite_Bead_Small L?
 U 1 1 5B2B3529
 P 5700 3800
 F 0 "L?" V 5650 3700 50  0000 L CNN
-F 1 "?" V 5650 3900 50  0000 L CNN
+F 1 "300Ω@100MHz" V 5800 3650 50  0000 L CNN
 F 2 "" V 5630 3800 50  0001 C CNN
 F 3 "" H 5700 3800 50  0001 C CNN
 	1    5700 3800
@@ -735,15 +731,13 @@ L Ferrite_Bead_Small L?
 U 1 1 5B2B35B4
 P 5700 3100
 F 0 "L?" V 5650 3000 50  0000 L CNN
-F 1 "?" V 5650 3200 50  0000 L CNN
+F 1 "300Ω@100MHz" V 5800 2950 50  0000 L CNN
 F 2 "" V 5630 3100 50  0001 C CNN
 F 3 "" H 5700 3100 50  0001 C CNN
 	1    5700 3100
 	0    1    1    0   
 $EndComp
 Connection ~ 5150 3100
-Wire Wire Line
-	6000 3100 6000 3100
 Connection ~ 6200 3100
 Connection ~ 5150 3800
 Wire Wire Line
@@ -806,7 +800,7 @@ L Ferrite_Bead_Small L?
 U 1 1 5B2B4818
 P 5700 4800
 F 0 "L?" V 5650 4700 50  0000 L CNN
-F 1 "?" V 5650 4900 50  0000 L CNN
+F 1 "300Ω@100MHz" V 5850 4650 50  0000 L CNN
 F 2 "" V 5630 4800 50  0001 C CNN
 F 3 "" H 5700 4800 50  0001 C CNN
 	1    5700 4800
@@ -817,7 +811,7 @@ L Ferrite_Bead_Small L?
 U 1 1 5B2B481E
 P 5700 4100
 F 0 "L?" V 5650 4000 50  0000 L CNN
-F 1 "?" V 5650 4200 50  0000 L CNN
+F 1 "300Ω@100MHz" V 5800 3950 50  0000 L CNN
 F 2 "" V 5630 4100 50  0001 C CNN
 F 3 "" H 5700 4100 50  0001 C CNN
 	1    5700 4100
@@ -854,4 +848,34 @@ Connection ~ 1450 4100
 Wire Wire Line
 	3600 4500 2900 4500
 Connection ~ 2900 4500
+Text HLabel 1550 1900 0    60   Input ~ 0
+SSPNDn
+Wire Wire Line
+	3400 2050 3400 2300
+Text Label 3300 2500 0    60   ~ 0
+FAULT
+Text Label 1200 2100 0    60   ~ 0
+FAULT
+Wire Wire Line
+	1550 1900 1750 1900
+Wire Wire Line
+	1200 2100 1750 2100
+Wire Notes Line
+	1750 2200 1750 1750
+Wire Notes Line
+	1750 1750 2300 1750
+Wire Notes Line
+	2300 1750 2300 2200
+Wire Notes Line
+	2300 2200 1750 2200
+Wire Wire Line
+	2300 2000 2700 2000
+Wire Wire Line
+	2700 2000 2700 2300
+Text Notes 1850 2050 0    60   ~ 0
+AND Gate \nhere
+Wire Wire Line
+	5800 3100 6400 3100
+Text Notes 5600 2950 0    60   ~ 0
+Use NFZ2MSM as output filter ferrite bead
 $EndSCHEMATC

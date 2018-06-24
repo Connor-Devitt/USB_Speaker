@@ -897,6 +897,7 @@ F0 "Speaker Op-Amp Circuit" 60
 F1 "USB_Speaker_page2.sch" 60
 F2 "Vin_R" I L 9400 850 60 
 F3 "Vin_L" I L 9400 1100 60 
+F4 "SSPNDn" I L 9400 1350 60 
 $EndSheet
 NoConn ~ 5850 4000
 NoConn ~ 5850 4200
@@ -922,5 +923,9 @@ Wire Wire Line
 	5650 2500 5650 3000
 Connection ~ 5650 3000
 Text Label 2850 5450 0    60   ~ 0
+SSPNDn
+Wire Wire Line
+	9400 1350 8750 1350
+Text Label 8750 1350 0    60   ~ 0
 SSPNDn
 $EndSCHEMATC
