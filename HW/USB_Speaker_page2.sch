@@ -38,7 +38,7 @@ EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 2 2
+Sheet 2 3
 Title ""
 Date ""
 Rev ""
@@ -117,17 +117,6 @@ F 3 "" H 6000 1100 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR?
-U 1 1 5B29E616
-P 5400 1650
-F 0 "#PWR?" H 5400 1400 50  0001 C CNN
-F 1 "GND" H 5400 1500 50  0000 C CNN
-F 2 "" H 5400 1650 50  0001 C CNN
-F 3 "" H 5400 1650 50  0001 C CNN
-	1    5400 1650
-	1    0    0    -1  
-$EndComp
-$Comp
 L C_Small C?
 U 1 1 5B2A1B92
 P 6600 1400
@@ -174,12 +163,12 @@ $EndComp
 $Comp
 L GND #PWR?
 U 1 1 5B2A1BAA
-P 6600 1650
-F 0 "#PWR?" H 6600 1400 50  0001 C CNN
-F 1 "GND" H 6600 1500 50  0000 C CNN
-F 2 "" H 6600 1650 50  0001 C CNN
-F 3 "" H 6600 1650 50  0001 C CNN
-	1    6600 1650
+P 7200 1650
+F 0 "#PWR?" H 7200 1400 50  0001 C CNN
+F 1 "GND" H 7200 1500 50  0000 C CNN
+F 2 "" H 7200 1650 50  0001 C CNN
+F 3 "" H 7200 1650 50  0001 C CNN
+	1    7200 1650
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -552,7 +541,7 @@ $EndComp
 Wire Wire Line
 	6000 1100 6000 1300
 Wire Wire Line
-	5400 1500 5400 1650
+	5400 1500 5400 1600
 Connection ~ 6000 1200
 Wire Wire Line
 	5700 1200 5700 1300
@@ -562,7 +551,7 @@ Wire Wire Line
 Wire Wire Line
 	5400 1600 6000 1600
 Wire Wire Line
-	6000 1600 6000 1500
+	6000 1500 6000 1650
 Connection ~ 5700 1600
 Connection ~ 5400 1600
 Wire Wire Line
@@ -577,7 +566,7 @@ Wire Wire Line
 Wire Wire Line
 	6300 1200 7200 1200
 Wire Wire Line
-	6600 1500 6600 1650
+	6600 1500 6600 1600
 Connection ~ 7200 1200
 Wire Wire Line
 	6900 1300 6900 1200
@@ -587,7 +576,7 @@ Wire Wire Line
 Wire Wire Line
 	6600 1600 7200 1600
 Wire Wire Line
-	7200 1600 7200 1500
+	7200 1500 7200 1650
 Connection ~ 6900 1600
 Connection ~ 6600 1600
 Wire Wire Line
@@ -878,4 +867,17 @@ Wire Wire Line
 	5800 3100 6400 3100
 Text Notes 5600 2950 0    60   ~ 0
 Use NFZ2MSM as output filter ferrite bead
+$Comp
+L GND #PWR?
+U 1 1 5B29E616
+P 6000 1650
+F 0 "#PWR?" H 6000 1400 50  0001 C CNN
+F 1 "GND" H 6000 1500 50  0000 C CNN
+F 2 "" H 6000 1650 50  0001 C CNN
+F 3 "" H 6000 1650 50  0001 C CNN
+	1    6000 1650
+	1    0    0    -1  
+$EndComp
+Connection ~ 6000 1600
+Connection ~ 7200 1600
 $EndSCHEMATC
