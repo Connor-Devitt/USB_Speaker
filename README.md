@@ -8,4 +8,6 @@ Electro-mechanical design for a  USB spaker
 * USB charges batteries when speaker is idle
 
 ### The Schematic (v0.1)
-![Schematic](https://github.com/Connor-Devitt/USB_Speaker/blob/master/HW/USB_Speaker.pdf)
+![Page1](https://github.com/Connor-Devitt/USB_Speaker/blob/master/HW/Generic%20Readables/USB_Speaker-1.png)
+![Page1](https://github.com/Connor-Devitt/USB_Speaker/blob/master/HW/Generic%20Readables/USB_Speaker-2.png)
+![Page1](https://github.com/Connor-Devitt/USB_Speaker/blob/master/HW/Generic%20Readables/USB_Speaker-3.png)
