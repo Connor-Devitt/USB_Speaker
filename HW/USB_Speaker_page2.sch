@@ -1080,8 +1080,6 @@ Wire Wire Line
 	950  4100 950  4000
 Wire Wire Line
 	800  4200 800  4000
-Text Notes 800  5150 0    60   ~ 0
-Power consumption limit??\n
 Text Label 3300 4700 0    60   ~ 0
 GVDD
 Wire Wire Line
