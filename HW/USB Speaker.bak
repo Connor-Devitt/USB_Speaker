@@ -1218,8 +1218,6 @@ Connection ~ 7000 3200
 Wire Wire Line
 	6800 3450 6800 3300
 Connection ~ 6800 3300
-Text Notes 2500 6800 0    60   ~ 0
-LED Power???\n
 $Sheet
 S 4900 6300 1500 1150
 U 5B429541
