@@ -2,10 +2,10 @@
 
   (general
     (links 210)
-    (no_connects 206)
-    (area 82.474999 54.534999 209.625001 130.885001)
+    (no_connects 183)
+    (area 0 0 0 0)
     (thickness 1.6)
-    (drawings 6)
+    (drawings 0)
     (tracks 0)
     (zones 0)
     (modules 102)
@@ -254,7 +254,7 @@
   )
 
   (module Capacitors_SMD:CP_Elec_6.3x5.7 (layer F.Cu) (tedit 58AA8B43) (tstamp 5B469533)
-    (at -129.54 146.05)
+    (at 134.62 130.81)
     (descr "SMT capacitor, aluminium electrolytic, 6.3x5.7")
     (path /5B42C83C)
     (attr smd)
@@ -304,7 +304,7 @@
   )
 
   (module Capacitors_SMD:CP_Elec_6.3x5.7 (layer F.Cu) (tedit 58AA8B43) (tstamp 5B469539)
-    (at -142.24 121.92)
+    (at 121.92 106.68)
     (descr "SMT capacitor, aluminium electrolytic, 6.3x5.7")
     (path /5B42C83D)
     (attr smd)
@@ -354,7 +354,7 @@
   )
 
   (module TO_SOT_Packages_SMD:SOT-23 (layer F.Cu) (tedit 58CE4E7E) (tstamp 5B469540)
-    (at -72.39 128.27)
+    (at 191.77 113.03)
     (descr "SOT-23, Standard")
     (tags SOT-23)
     (path /5B3D88FB)
@@ -395,7 +395,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5B469546)
-    (at -69.85 109.22)
+    (at 194.31 93.98)
     (descr SOD-123)
     (tags SOD-123)
     (path /5B42C84F/5B44A163)
@@ -439,7 +439,7 @@
   )
 
   (module Diodes_SMD:D_0805 (layer F.Cu) (tedit 590CE9A4) (tstamp 5B46954C)
-    (at -121.92 95.25)
+    (at 142.24 80.01)
     (descr "Diode SMD in 0805 package http://datasheets.avx.com/schottky.pdf")
     (tags "smd diode")
     (path /5B3D0088)
@@ -482,7 +482,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5B469552)
-    (at -91.44 165.1)
+    (at 172.72 149.86)
     (descr SOD-123)
     (tags SOD-123)
     (path /5B42C84F/5B32E881)
@@ -526,7 +526,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5B469558)
-    (at -44.45 113.03)
+    (at 219.71 97.79)
     (descr SOD-123)
     (tags SOD-123)
     (path /5B42C84F/5B34A2E5)
@@ -570,7 +570,7 @@
   )
 
   (module Diodes_SMD:D_0805 (layer F.Cu) (tedit 590CE9A4) (tstamp 5B46955E)
-    (at -59.69 96.52)
+    (at 204.47 81.28)
     (descr "Diode SMD in 0805 package http://datasheets.avx.com/schottky.pdf")
     (tags "smd diode")
     (path /5B42C84F/5B3D11DA)
@@ -613,7 +613,7 @@
   )
 
   (module keyboard_parts:USB_miniB_hirose_5S8 (layer F.Cu) (tedit 5950B1FC) (tstamp 5B46956B)
-    (at -114.3 158.75)
+    (at 149.86 143.51)
     (descr "USB miniB hirose UX60SC-MB-5S8")
     (tags "USB miniB hirose through hole UX60SC-MB-5S8")
     (path /5B42C820)
@@ -654,7 +654,7 @@
   )
 
   (module Measurement_Points:Measurement_Point_Round-TH_Big (layer F.Cu) (tedit 56C35F03) (tstamp 5B469570)
-    (at -41.91 125.73)
+    (at 222.25 110.49)
     (descr "Mesurement Point, Round, Trough Hole,  DM 3mm, Drill 1.5mm,")
     (tags "Mesurement Point Round Trough Hole 3mm 1.5mm")
     (path /5B3D30CC)
@@ -671,7 +671,7 @@
   )
 
   (module Measurement_Points:Measurement_Point_Round-TH_Big (layer F.Cu) (tedit 56C35F03) (tstamp 5B469575)
-    (at -152.4 154.94)
+    (at 111.76 139.7)
     (descr "Mesurement Point, Round, Trough Hole,  DM 3mm, Drill 1.5mm,")
     (tags "Mesurement Point Round Trough Hole 3mm 1.5mm")
     (path /5B42C85C)
@@ -688,7 +688,7 @@
   )
 
   (module Measurement_Points:Measurement_Point_Round-TH_Big (layer F.Cu) (tedit 56C35F03) (tstamp 5B46957A)
-    (at -106.68 95.25)
+    (at 157.48 80.01)
     (descr "Mesurement Point, Round, Trough Hole,  DM 3mm, Drill 1.5mm,")
     (tags "Mesurement Point Round Trough Hole 3mm 1.5mm")
     (path /5B42C84D/5B3D594F)
@@ -705,7 +705,7 @@
   )
 
   (module Measurement_Points:Measurement_Point_Round-TH_Big (layer F.Cu) (tedit 56C35F03) (tstamp 5B46957F)
-    (at -88.9 93.98)
+    (at 175.26 78.74)
     (descr "Mesurement Point, Round, Trough Hole,  DM 3mm, Drill 1.5mm,")
     (tags "Mesurement Point Round Trough Hole 3mm 1.5mm")
     (path /5B42C84D/5B3D6158)
@@ -722,7 +722,7 @@
   )
 
   (module Measurement_Points:Measurement_Point_Round-TH_Big (layer F.Cu) (tedit 56C35F03) (tstamp 5B469584)
-    (at -130.81 162.56)
+    (at 133.35 147.32)
     (descr "Mesurement Point, Round, Trough Hole,  DM 3mm, Drill 1.5mm,")
     (tags "Mesurement Point Round Trough Hole 3mm 1.5mm")
     (path /5B42C84D/5B3D5A8D)
@@ -739,7 +739,7 @@
   )
 
   (module Relays_THT:Relay_DPDT_Finder_40.52 (layer F.Cu) (tedit 58FA4BF0) (tstamp 5B469590)
-    (at -54.61 148.59)
+    (at 209.55 133.35)
     (descr "Relay DPDT Finder 40.52, Pitch 5mm, https://www.finder-relais.net/de/finder-relais-serie-40.pdf")
     (tags "Relay DPDT Finder 40.52 Pitch 5mm")
     (path /5B42C84F/5B342FAB)
@@ -799,7 +799,7 @@
   )
 
   (module Inductors_SMD:L_0805_HandSoldering (layer F.Cu) (tedit 58307B90) (tstamp 5B469596)
-    (at -167.64 128.27)
+    (at 96.52 113.03)
     (descr "Resistor SMD 0805, hand soldering")
     (tags "resistor 0805")
     (path /5B19CF28)
@@ -835,7 +835,7 @@
   )
 
   (module Inductors_SMD:L_0805_HandSoldering (layer F.Cu) (tedit 58307B90) (tstamp 5B46959C)
-    (at -111.76 142.24)
+    (at 152.4 127)
     (descr "Resistor SMD 0805, hand soldering")
     (tags "resistor 0805")
     (path /5B1895A4)
@@ -871,7 +871,7 @@
   )
 
   (module Inductors_SMD:L_0805_HandSoldering (layer F.Cu) (tedit 58307B90) (tstamp 5B4695A2)
-    (at -172.72 148.59)
+    (at 91.44 133.35)
     (descr "Resistor SMD 0805, hand soldering")
     (tags "resistor 0805")
     (path /5B19F716)
@@ -907,7 +907,7 @@
   )
 
   (module Inductors_SMD:L_0805_HandSoldering (layer F.Cu) (tedit 58307B90) (tstamp 5B4695A8)
-    (at -170.18 156.21)
+    (at 93.98 140.97)
     (descr "Resistor SMD 0805, hand soldering")
     (tags "resistor 0805")
     (path /5B42C84D/5B2B35B4)
@@ -943,7 +943,7 @@
   )
 
   (module Inductors_SMD:L_0805_HandSoldering (layer F.Cu) (tedit 58307B90) (tstamp 5B4695AE)
-    (at -172.72 163.83)
+    (at 91.44 148.59)
     (descr "Resistor SMD 0805, hand soldering")
     (tags "resistor 0805")
     (path /5B42C84D/5B2B3529)
@@ -979,7 +979,7 @@
   )
 
   (module Inductors_SMD:L_0805_HandSoldering (layer F.Cu) (tedit 58307B90) (tstamp 5B4695B4)
-    (at -71.12 160.02)
+    (at 193.04 144.78)
     (descr "Resistor SMD 0805, hand soldering")
     (tags "resistor 0805")
     (path /5B42C84D/5B2B481E)
@@ -1015,7 +1015,7 @@
   )
 
   (module Inductors_SMD:L_0805_HandSoldering (layer F.Cu) (tedit 58307B90) (tstamp 5B4695BA)
-    (at -171.45 104.14)
+    (at 92.71 88.9)
     (descr "Resistor SMD 0805, hand soldering")
     (tags "resistor 0805")
     (path /5B42C84D/5B2B4818)
@@ -1051,7 +1051,7 @@
   )
 
   (module Resistors_SMD:R_0805_HandSoldering (layer F.Cu) (tedit 58E0A804) (tstamp 5B4695C0)
-    (at -166.37 115.57)
+    (at 97.79 100.33)
     (descr "Resistor SMD 0805, hand soldering")
     (tags "resistor 0805")
     (path /5B1A994C)
@@ -1087,7 +1087,7 @@
   )
 
   (module Resistors_SMD:R_0805_HandSoldering (layer F.Cu) (tedit 58E0A804) (tstamp 5B4695C6)
-    (at -87.63 127)
+    (at 176.53 111.76)
     (descr "Resistor SMD 0805, hand soldering")
     (tags "resistor 0805")
     (path /5B42C83F)
@@ -1123,7 +1123,7 @@
   )
 
   (module Resistors_SMD:R_0805_HandSoldering (layer F.Cu) (tedit 58E0A804) (tstamp 5B4695CC)
-    (at -153.67 167.64)
+    (at 110.49 152.4)
     (descr "Resistor SMD 0805, hand soldering")
     (tags "resistor 0805")
     (path /5B42C842)
@@ -1159,7 +1159,7 @@
   )
 
   (module Resistors_SMD:R_0805_HandSoldering (layer F.Cu) (tedit 58E0A804) (tstamp 5B4695D2)
-    (at -165.1 93.98)
+    (at 99.06 78.74)
     (descr "Resistor SMD 0805, hand soldering")
     (tags "resistor 0805")
     (path /5B42C843)
@@ -1195,7 +1195,7 @@
   )
 
   (module Resistors_SMD:R_0805_HandSoldering (layer F.Cu) (tedit 58E0A804) (tstamp 5B4695D8)
-    (at -147.32 93.98)
+    (at 116.84 78.74)
     (descr "Resistor SMD 0805, hand soldering")
     (tags "resistor 0805")
     (path /5B1ACC82)
@@ -1231,7 +1231,7 @@
   )
 
   (module Resistors_SMD:R_0805_HandSoldering (layer F.Cu) (tedit 58E0A804) (tstamp 5B4695DE)
-    (at -111.76 111.76)
+    (at 152.4 96.52)
     (descr "Resistor SMD 0805, hand soldering")
     (tags "resistor 0805")
     (path /5B42C845)
@@ -1267,7 +1267,7 @@
   )
 
   (module Resistors_SMD:R_0805_HandSoldering (layer F.Cu) (tedit 58E0A804) (tstamp 5B4695E4)
-    (at -69.85 120.65)
+    (at 194.31 105.41)
     (descr "Resistor SMD 0805, hand soldering")
     (tags "resistor 0805")
     (path /5B1A73F1)
@@ -1303,7 +1303,7 @@
   )
 
   (module Resistors_SMD:R_0805_HandSoldering (layer F.Cu) (tedit 58E0A804) (tstamp 5B4695EA)
-    (at -60.96 137.16)
+    (at 203.2 121.92)
     (descr "Resistor SMD 0805, hand soldering")
     (tags "resistor 0805")
     (path /5B42C835)
@@ -1339,7 +1339,7 @@
   )
 
   (module Resistors_SMD:R_0805_HandSoldering (layer F.Cu) (tedit 58E0A804) (tstamp 5B4695F0)
-    (at -128.27 102.87)
+    (at 135.89 87.63)
     (descr "Resistor SMD 0805, hand soldering")
     (tags "resistor 0805")
     (path /5B42C836)
@@ -1375,7 +1375,7 @@
   )
 
   (module Resistors_SMD:R_0805_HandSoldering (layer F.Cu) (tedit 58E0A804) (tstamp 5B4695F6)
-    (at -135.89 133.35)
+    (at 128.27 118.11)
     (descr "Resistor SMD 0805, hand soldering")
     (tags "resistor 0805")
     (path /5B42C84A)
@@ -1411,7 +1411,7 @@
   )
 
   (module Resistors_SMD:R_0805_HandSoldering (layer F.Cu) (tedit 58E0A804) (tstamp 5B4695FC)
-    (at -132.08 107.95)
+    (at 132.08 92.71)
     (descr "Resistor SMD 0805, hand soldering")
     (tags "resistor 0805")
     (path /5B1887B9)
@@ -1447,7 +1447,7 @@
   )
 
   (module Resistors_SMD:R_0805_HandSoldering (layer F.Cu) (tedit 58E0A804) (tstamp 5B469602)
-    (at -132.08 115.57)
+    (at 132.08 100.33)
     (descr "Resistor SMD 0805, hand soldering")
     (tags "resistor 0805")
     (path /5B1C4934)
@@ -1483,7 +1483,7 @@
   )
 
   (module Resistors_SMD:R_0805_HandSoldering (layer F.Cu) (tedit 58E0A804) (tstamp 5B469608)
-    (at -129.54 121.92)
+    (at 134.62 106.68)
     (descr "Resistor SMD 0805, hand soldering")
     (tags "resistor 0805")
     (path /5B42C850)
@@ -1519,7 +1519,7 @@
   )
 
   (module Resistors_SMD:R_0805_HandSoldering (layer F.Cu) (tedit 58E0A804) (tstamp 5B46960E)
-    (at -127 128.27)
+    (at 137.16 113.03)
     (descr "Resistor SMD 0805, hand soldering")
     (tags "resistor 0805")
     (path /5B187A93)
@@ -1555,7 +1555,7 @@
   )
 
   (module Resistors_SMD:R_0805_HandSoldering (layer F.Cu) (tedit 58E0A804) (tstamp 5B469614)
-    (at -125.73 135.89)
+    (at 138.43 120.65)
     (descr "Resistor SMD 0805, hand soldering")
     (tags "resistor 0805")
     (path /5B1A346D)
@@ -1591,7 +1591,7 @@
   )
 
   (module Resistors_SMD:R_0805_HandSoldering (layer F.Cu) (tedit 58E0A804) (tstamp 5B46961A)
-    (at -97.79 119.38)
+    (at 166.37 104.14)
     (descr "Resistor SMD 0805, hand soldering")
     (tags "resistor 0805")
     (path /5B42C84F/5B4516BC)
@@ -1627,7 +1627,7 @@
   )
 
   (module Resistors_SMD:R_0805_HandSoldering (layer F.Cu) (tedit 58E0A804) (tstamp 5B469620)
-    (at -97.79 123.19)
+    (at 166.37 107.95)
     (descr "Resistor SMD 0805, hand soldering")
     (tags "resistor 0805")
     (path /5B42C859)
@@ -1663,7 +1663,7 @@
   )
 
   (module Resistors_SMD:R_0805_HandSoldering (layer F.Cu) (tedit 58E0A804) (tstamp 5B469626)
-    (at -180.34 120.65)
+    (at 83.82 105.41)
     (descr "Resistor SMD 0805, hand soldering")
     (tags "resistor 0805")
     (path /5B42C84D/5B2A2F68)
@@ -1699,7 +1699,7 @@
   )
 
   (module Resistors_SMD:R_0805_HandSoldering (layer F.Cu) (tedit 58E0A804) (tstamp 5B46962C)
-    (at -181.61 128.27)
+    (at 82.55 113.03)
     (descr "Resistor SMD 0805, hand soldering")
     (tags "resistor 0805")
     (path /5B42C84D/5B2B5A20)
@@ -1735,7 +1735,7 @@
   )
 
   (module Resistors_SMD:R_0805_HandSoldering (layer F.Cu) (tedit 58E0A804) (tstamp 5B469632)
-    (at -184.15 135.89)
+    (at 80.01 120.65)
     (descr "Resistor SMD 0805, hand soldering")
     (tags "resistor 0805")
     (path /5B42C84D/5B2B163A)
@@ -1771,7 +1771,7 @@
   )
 
   (module Resistors_SMD:R_0805_HandSoldering (layer F.Cu) (tedit 58E0A804) (tstamp 5B469638)
-    (at -156.21 176.53)
+    (at 107.95 161.29)
     (descr "Resistor SMD 0805, hand soldering")
     (tags "resistor 0805")
     (path /5B42C84D/5B2B0907)
@@ -1807,7 +1807,7 @@
   )
 
   (module Resistors_SMD:R_0805_HandSoldering (layer F.Cu) (tedit 58E0A804) (tstamp 5B46963E)
-    (at -187.96 139.7)
+    (at 76.2 124.46)
     (descr "Resistor SMD 0805, hand soldering")
     (tags "resistor 0805")
     (path /5B42C84D/5B2B5998)
@@ -1843,7 +1843,7 @@
   )
 
   (module Resistors_SMD:R_0805_HandSoldering (layer F.Cu) (tedit 58E0A804) (tstamp 5B469644)
-    (at -137.16 170.18)
+    (at 127 154.94)
     (descr "Resistor SMD 0805, hand soldering")
     (tags "resistor 0805")
     (path /5B42C84D/5B2B16DE)
@@ -1879,7 +1879,7 @@
   )
 
   (module Resistors_SMD:R_0805_HandSoldering (layer F.Cu) (tedit 58E0A804) (tstamp 5B46964A)
-    (at -186.69 162.56)
+    (at 77.47 147.32)
     (descr "Resistor SMD 0805, hand soldering")
     (tags "resistor 0805")
     (path /5B42C84F/5B335E68)
@@ -1915,7 +1915,7 @@
   )
 
   (module Resistors_SMD:R_0805_HandSoldering (layer F.Cu) (tedit 58E0A804) (tstamp 5B469650)
-    (at -80.01 102.87)
+    (at 184.15 87.63)
     (descr "Resistor SMD 0805, hand soldering")
     (tags "resistor 0805")
     (path /5B42C84F/5B3D1363)
@@ -1951,7 +1951,7 @@
   )
 
   (module Resistors_SMD:R_0805_HandSoldering (layer F.Cu) (tedit 58E0A804) (tstamp 5B469656)
-    (at -74.93 142.24)
+    (at 189.23 127)
     (descr "Resistor SMD 0805, hand soldering")
     (tags "resistor 0805")
     (path /5B42C84F/5B469567)
@@ -1987,7 +1987,7 @@
   )
 
   (module Housings_QFP:TQFP-32_7x7mm_Pitch0.8mm (layer F.Cu) (tedit 58CC9A48) (tstamp 5B46967A)
-    (at -142.24 105.41)
+    (at 121.92 90.17)
     (descr "32-Lead Plastic Thin Quad Flatpack (PT) - 7x7x1.0 mm Body, 2.00 mm [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)")
     (tags "QFP 0.8")
     (path /5B173B6A)
@@ -2091,7 +2091,7 @@
   )
 
   (module TO_SOT_Packages_SMD:SOT-23-5_HandSoldering (layer F.Cu) (tedit 58CE4E7E) (tstamp 5B469683)
-    (at -191.77 152.4)
+    (at 72.39 137.16)
     (descr "5-pin SOT23 package")
     (tags "SOT-23-5 hand-soldering")
     (path /5B42C84D/5B46B81A)
@@ -2134,7 +2134,7 @@
   )
 
   (module Housings_SSOP:TSSOP-28_4.4x9.7mm_Pitch0.65mm (layer F.Cu) (tedit 54130A77) (tstamp 5B4696A3)
-    (at -93.98 107.95)
+    (at 170.18 92.71)
     (descr "TSSOP28: plastic thin shrink small outline package; 28 leads; body width 4.4 mm; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot361-1_po.pdf)")
     (tags "SSOP 0.65")
     (path /5B42C84D/5B29D076)
@@ -2227,7 +2227,7 @@
   )
 
   (module TO_SOT_Packages_SMD:SOT-23-5_HandSoldering (layer F.Cu) (tedit 58CE4E7E) (tstamp 5B4696AC)
-    (at -101.6 172.72)
+    (at 162.56 157.48)
     (descr "5-pin SOT23 package")
     (tags "SOT-23-5 hand-soldering")
     (path /5B42C84F/5B32F9AB)
@@ -2270,7 +2270,7 @@
   )
 
   (module TO_SOT_Packages_SMD:TO-263-5_TabPin6 (layer F.Cu) (tedit 590079C0) (tstamp 5B4696BA)
-    (at -93.98 146.05)
+    (at 170.18 130.81)
     (descr "TO-263 / D2PAK / DDPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO263/PG-TO263-5-1/")
     (tags "D2PAK DDPAK TO-263 D2PAK-5 TO-263-5 SOT-426")
     (path /5B42C84F/5B468D35)
@@ -2345,7 +2345,7 @@
   )
 
   (module Crystals:Crystal_HC49-4H_Vertical (layer F.Cu) (tedit 58CD2E9C) (tstamp 5B4696C0)
-    (at -153.67 138.43)
+    (at 110.49 123.19)
     (descr "Crystal THT HC-49-4H http://5hertz.com/pdfs/04404_D.pdf")
     (tags "THT crystalHC-49-4H")
     (path /5B42C81B)
@@ -2386,7 +2386,7 @@
   )
 
   (module Connectors_Terminal_Blocks:TerminalBlock_bornier-2_P5.08mm (layer F.Cu) (tedit 59FF03AB) (tstamp 5B4D3E4B)
-    (at -198.12 92.71)
+    (at 66.04 77.47)
     (descr "simple 2-pin terminal block, pitch 5.08mm, revamped version of bornier2")
     (tags "terminal block bornier2")
     (path /5B42C84F/5B3470A3)
@@ -2425,7 +2425,7 @@
   )
 
   (module Connectors_Terminal_Blocks:TerminalBlock_bornier-2_P5.08mm (layer F.Cu) (tedit 59FF03AB) (tstamp 5B4D3E51)
-    (at -195.58 59.69)
+    (at 68.58 44.45)
     (descr "simple 2-pin terminal block, pitch 5.08mm, revamped version of bornier2")
     (tags "terminal block bornier2")
     (path /5B42C84F/5B34706B)
@@ -2464,7 +2464,7 @@
   )
 
   (module Capacitors_SMD:C_0805_HandSoldering (layer F.Cu) (tedit 58AA84A8) (tstamp 5B4D3E57)
-    (at -168.91 77.47)
+    (at 95.25 62.23)
     (descr "Capacitor SMD 0805, hand soldering")
     (tags "capacitor 0805")
     (path /5B42C83A)
@@ -2500,7 +2500,7 @@
   )
 
   (module Capacitors_SMD:C_0805_HandSoldering (layer F.Cu) (tedit 58AA84A8) (tstamp 5B4D3E5D)
-    (at -210.82 151.13)
+    (at 53.34 135.89)
     (descr "Capacitor SMD 0805, hand soldering")
     (tags "capacitor 0805")
     (path /5B42C83B)
@@ -2536,7 +2536,7 @@
   )
 
   (module Capacitors_SMD:C_0805_HandSoldering (layer F.Cu) (tedit 58AA84A8) (tstamp 5B4D3E63)
-    (at -165.1 67.31)
+    (at 99.06 52.07)
     (descr "Capacitor SMD 0805, hand soldering")
     (tags "capacitor 0805")
     (path /5B42C826)
@@ -2572,7 +2572,7 @@
   )
 
   (module Capacitors_SMD:C_0805_HandSoldering (layer F.Cu) (tedit 58AA84A8) (tstamp 5B4D3E69)
-    (at -222.25 41.91)
+    (at 41.91 26.67)
     (descr "Capacitor SMD 0805, hand soldering")
     (tags "capacitor 0805")
     (path /5B42C827)
@@ -2608,7 +2608,7 @@
   )
 
   (module Capacitors_SMD:CP_Elec_6.3x5.7 (layer F.Cu) (tedit 58AA8B43) (tstamp 5B4D3E6F)
-    (at -135.89 69.85)
+    (at 128.27 54.61)
     (descr "SMT capacitor, aluminium electrolytic, 6.3x5.7")
     (path /5B1A0630)
     (attr smd)
@@ -2658,7 +2658,7 @@
   )
 
   (module Capacitors_SMD:C_0805_HandSoldering (layer F.Cu) (tedit 58AA84A8) (tstamp 5B4D3E75)
-    (at -198.12 35.56)
+    (at 66.04 20.32)
     (descr "Capacitor SMD 0805, hand soldering")
     (tags "capacitor 0805")
     (path /5B19F3E6)
@@ -2694,7 +2694,7 @@
   )
 
   (module Capacitors_SMD:C_0805_HandSoldering (layer F.Cu) (tedit 58AA84A8) (tstamp 5B4D3E7B)
-    (at -231.14 114.3)
+    (at 33.02 99.06)
     (descr "Capacitor SMD 0805, hand soldering")
     (tags "capacitor 0805")
     (path /5B42C82F)
@@ -2730,7 +2730,7 @@
   )
 
   (module Capacitors_SMD:C_0805_HandSoldering (layer F.Cu) (tedit 58AA84A8) (tstamp 5B4D3E81)
-    (at -96.52 41.91)
+    (at 167.64 26.67)
     (descr "Capacitor SMD 0805, hand soldering")
     (tags "capacitor 0805")
     (path /5B189480)
@@ -2766,7 +2766,7 @@
   )
 
   (module Capacitors_SMD:C_0805_HandSoldering (layer F.Cu) (tedit 58AA84A8) (tstamp 5B4D3E87)
-    (at -229.87 153.67)
+    (at 34.29 138.43)
     (descr "Capacitor SMD 0805, hand soldering")
     (tags "capacitor 0805")
     (path /5B188B22)
@@ -2802,7 +2802,7 @@
   )
 
   (module Capacitors_SMD:C_0805_HandSoldering (layer F.Cu) (tedit 58AA84A8) (tstamp 5B4D3E8D)
-    (at -67.31 57.15)
+    (at 196.85 41.91)
     (descr "Capacitor SMD 0805, hand soldering")
     (tags "capacitor 0805")
     (path /5B42C81D)
@@ -2838,7 +2838,7 @@
   )
 
   (module Capacitors_SMD:C_0805_HandSoldering (layer F.Cu) (tedit 58AA84A8) (tstamp 5B4D3E93)
-    (at -186.69 78.74)
+    (at 77.47 63.5)
     (descr "Capacitor SMD 0805, hand soldering")
     (tags "capacitor 0805")
     (path /5B42C81E)
@@ -2874,7 +2874,7 @@
   )
 
   (module Capacitors_SMD:C_0805_HandSoldering (layer F.Cu) (tedit 58AA84A8) (tstamp 5B4D3E99)
-    (at -109.22 66.04)
+    (at 154.94 50.8)
     (descr "Capacitor SMD 0805, hand soldering")
     (tags "capacitor 0805")
     (path /5B42C84D/5B34BCCE)
@@ -2910,7 +2910,7 @@
   )
 
   (module Capacitors_SMD:C_0805_HandSoldering (layer F.Cu) (tedit 58AA84A8) (tstamp 5B4D3E9F)
-    (at -210.82 176.53)
+    (at 53.34 161.29)
     (descr "Capacitor SMD 0805, hand soldering")
     (tags "capacitor 0805")
     (path /5B42C84D/5B29D310)
@@ -2946,7 +2946,7 @@
   )
 
   (module Capacitors_SMD:C_0805_HandSoldering (layer F.Cu) (tedit 58AA84A8) (tstamp 5B4D3EA5)
-    (at -93.98 77.47)
+    (at 170.18 62.23)
     (descr "Capacitor SMD 0805, hand soldering")
     (tags "capacitor 0805")
     (path /5B42C84D/5B29D365)
@@ -2982,7 +2982,7 @@
   )
 
   (module Capacitors_SMD:CP_Elec_6.3x5.7 (layer F.Cu) (tedit 58AA8B43) (tstamp 5B4D3EAB)
-    (at -120.65 54.61)
+    (at 143.51 39.37)
     (descr "SMT capacitor, aluminium electrolytic, 6.3x5.7")
     (path /5B42C84D/5B29D3B0)
     (attr smd)
@@ -3032,7 +3032,7 @@
   )
 
   (module Capacitors_SMD:C_0805_HandSoldering (layer F.Cu) (tedit 58AA84A8) (tstamp 5B4D3EB1)
-    (at -179.07 68.58)
+    (at 85.09 53.34)
     (descr "Capacitor SMD 0805, hand soldering")
     (tags "capacitor 0805")
     (path /5B42C84D/5B2A1B92)
@@ -3068,7 +3068,7 @@
   )
 
   (module Capacitors_SMD:C_0805_HandSoldering (layer F.Cu) (tedit 58AA84A8) (tstamp 5B4D3EB7)
-    (at -241.3 105.41)
+    (at 22.86 90.17)
     (descr "Capacitor SMD 0805, hand soldering")
     (tags "capacitor 0805")
     (path /5B42C84D/5B2A1B98)
@@ -3104,7 +3104,7 @@
   )
 
   (module Capacitors_SMD:CP_Elec_6.3x5.7 (layer F.Cu) (tedit 58AA8B43) (tstamp 5B4D3EBD)
-    (at -215.9 125.73)
+    (at 48.26 110.49)
     (descr "SMT capacitor, aluminium electrolytic, 6.3x5.7")
     (path /5B42C84D/5B2A1B9E)
     (attr smd)
@@ -3154,7 +3154,7 @@
   )
 
   (module Capacitors_SMD:C_0805_HandSoldering (layer F.Cu) (tedit 58AA84A8) (tstamp 5B4D3EC3)
-    (at -116.84 81.28)
+    (at 147.32 66.04)
     (descr "Capacitor SMD 0805, hand soldering")
     (tags "capacitor 0805")
     (path /5B42C84D/5B2BB4BC)
@@ -3190,7 +3190,7 @@
   )
 
   (module Capacitors_SMD:C_0805_HandSoldering (layer F.Cu) (tedit 58AA84A8) (tstamp 5B4D3EC9)
-    (at -77.47 91.44)
+    (at 186.69 76.2)
     (descr "Capacitor SMD 0805, hand soldering")
     (tags "capacitor 0805")
     (path /5B42C84D/5B2BD0C9)
@@ -3226,7 +3226,7 @@
   )
 
   (module Capacitors_SMD:C_0805_HandSoldering (layer F.Cu) (tedit 58AA84A8) (tstamp 5B4D3ECF)
-    (at -142.24 83.82)
+    (at 121.92 68.58)
     (descr "Capacitor SMD 0805, hand soldering")
     (tags "capacitor 0805")
     (path /5B42C84D/5B2BB6BD)
@@ -3262,7 +3262,7 @@
   )
 
   (module Capacitors_SMD:C_0805_HandSoldering (layer F.Cu) (tedit 58AA84A8) (tstamp 5B4D3ED5)
-    (at -240.03 88.9)
+    (at 24.13 73.66)
     (descr "Capacitor SMD 0805, hand soldering")
     (tags "capacitor 0805")
     (path /5B42C84D/5B2C43F1)
@@ -3298,7 +3298,7 @@
   )
 
   (module Capacitors_SMD:C_0805_HandSoldering (layer F.Cu) (tedit 58AA84A8) (tstamp 5B4D3EDB)
-    (at -104.14 81.28)
+    (at 160.02 66.04)
     (descr "Capacitor SMD 0805, hand soldering")
     (tags "capacitor 0805")
     (path /5B42C84D/5B2BD137)
@@ -3334,7 +3334,7 @@
   )
 
   (module Capacitors_SMD:C_0805_HandSoldering (layer F.Cu) (tedit 58AA84A8) (tstamp 5B4D3EE1)
-    (at -82.55 81.28)
+    (at 181.61 66.04)
     (descr "Capacitor SMD 0805, hand soldering")
     (tags "capacitor 0805")
     (path /5B42C84D/5B2B06D6)
@@ -3370,7 +3370,7 @@
   )
 
   (module Capacitors_SMD:C_0805_HandSoldering (layer F.Cu) (tedit 58AA84A8) (tstamp 5B4D3EE7)
-    (at -196.85 124.46)
+    (at 67.31 109.22)
     (descr "Capacitor SMD 0805, hand soldering")
     (tags "capacitor 0805")
     (path /5B42C84D/5B2B0766)
@@ -3406,7 +3406,7 @@
   )
 
   (module Capacitors_SMD:C_0805_HandSoldering (layer F.Cu) (tedit 58AA84A8) (tstamp 5B4D3EED)
-    (at -45.72 39.37)
+    (at 218.44 24.13)
     (descr "Capacitor SMD 0805, hand soldering")
     (tags "capacitor 0805")
     (path /5B42C84D/5B2C6243)
@@ -3442,7 +3442,7 @@
   )
 
   (module Capacitors_SMD:C_0805_HandSoldering (layer F.Cu) (tedit 58AA84A8) (tstamp 5B4D3EF3)
-    (at -87.63 48.26)
+    (at 176.53 33.02)
     (descr "Capacitor SMD 0805, hand soldering")
     (tags "capacitor 0805")
     (path /5B42C84D/5B2C62CF)
@@ -3478,7 +3478,7 @@
   )
 
   (module Capacitors_SMD:C_0805_HandSoldering (layer F.Cu) (tedit 58AA84A8) (tstamp 5B4D3EF9)
-    (at -199.39 111.76)
+    (at 64.77 96.52)
     (descr "Capacitor SMD 0805, hand soldering")
     (tags "capacitor 0805")
     (path /5B42C84D/5B2B47F9)
@@ -3514,7 +3514,7 @@
   )
 
   (module Capacitors_SMD:C_0805_HandSoldering (layer F.Cu) (tedit 58AA84A8) (tstamp 5B4D3EFF)
-    (at -91.44 53.34)
+    (at 172.72 38.1)
     (descr "Capacitor SMD 0805, hand soldering")
     (tags "capacitor 0805")
     (path /5B42C84D/5B2B47FF)
@@ -3550,7 +3550,7 @@
   )
 
   (module Capacitors_SMD:C_0805_HandSoldering (layer F.Cu) (tedit 58AA84A8) (tstamp 5B4D3F05)
-    (at -182.88 195.58)
+    (at 81.28 180.34)
     (descr "Capacitor SMD 0805, hand soldering")
     (tags "capacitor 0805")
     (path /5B42C84D/5B2C55E1)
@@ -3586,7 +3586,7 @@
   )
 
   (module Capacitors_SMD:C_0805_HandSoldering (layer F.Cu) (tedit 58AA84A8) (tstamp 5B4D3F0B)
-    (at -138.43 43.18)
+    (at 125.73 27.94)
     (descr "Capacitor SMD 0805, hand soldering")
     (tags "capacitor 0805")
     (path /5B42C84D/5B2A56ED)
@@ -3622,7 +3622,7 @@
   )
 
   (module Capacitors_SMD:C_0805_HandSoldering (layer F.Cu) (tedit 58AA84A8) (tstamp 5B4D3F11)
-    (at -120.65 38.1)
+    (at 143.51 22.86)
     (descr "Capacitor SMD 0805, hand soldering")
     (tags "capacitor 0805")
     (path /5B42C84D/5B2A4F76)
@@ -3658,7 +3658,7 @@
   )
 
   (module Capacitors_SMD:C_0805_HandSoldering (layer F.Cu) (tedit 58AA84A8) (tstamp 5B4D3F17)
-    (at -229.87 82.55)
+    (at 34.29 67.31)
     (descr "Capacitor SMD 0805, hand soldering")
     (tags "capacitor 0805")
     (path /5B42C84F/5B32FE9D)
@@ -3694,7 +3694,7 @@
   )
 
   (module Capacitors_SMD:C_0805_HandSoldering (layer F.Cu) (tedit 58AA84A8) (tstamp 5B4D3F1D)
-    (at -236.22 140.97)
+    (at 27.94 125.73)
     (descr "Capacitor SMD 0805, hand soldering")
     (tags "capacitor 0805")
     (path /5B42C84F/5B33003C)
@@ -3730,7 +3730,7 @@
   )
 
   (module Capacitors_SMD:CP_Elec_6.3x5.7 (layer F.Cu) (tedit 58AA8B43) (tstamp 5B4D3F23)
-    (at -157.48 45.72)
+    (at 106.68 30.48)
     (descr "SMT capacitor, aluminium electrolytic, 6.3x5.7")
     (path /5B42C84F/5B446257)
     (attr smd)
@@ -3780,7 +3780,7 @@
   )
 
   (module Capacitors_SMD:CP_Elec_6.3x5.7 (layer F.Cu) (tedit 58AA8B43) (tstamp 5B4D3F29)
-    (at -16.51 109.22)
+    (at 247.65 93.98)
     (descr "SMT capacitor, aluminium electrolytic, 6.3x5.7")
     (path /5B42C84F/5B451492)
     (attr smd)
@@ -3830,7 +3830,7 @@
   )
 
   (module Capacitors_SMD:CP_Elec_6.3x7.7 (layer F.Cu) (tedit 58AA8B76) (tstamp 5B4D3F2F)
-    (at -29.21 66.04)
+    (at 234.95 50.8)
     (descr "SMT capacitor, aluminium electrolytic, 6.3x7.7")
     (path /5B42C84F/5B4496FA)
     (attr smd)
@@ -3880,7 +3880,7 @@
   )
 
   (module keyboard_parts:D_SC79 (layer F.Cu) (tedit 561B69B8) (tstamp 5B4D3F35)
-    (at -186.69 107.95)
+    (at 77.47 92.71)
     (descr "SMT, 1608, 0603")
     (tags "SMT, 1608, 0603")
     (path /5B42C85F)
@@ -3913,7 +3913,7 @@
   )
 
   (module Inductors_SMD:L_12x12mm_h4.5mm (layer F.Cu) (tedit 5990349B) (tstamp 5B4D3F3B)
-    (at -36.83 85.09)
+    (at 227.33 69.85)
     (descr "Choke, SMD, 12x12mm 4.5mm height")
     (tags "Choke SMD")
     (path /5B42C84F/5B451413)
@@ -4011,7 +4011,7 @@
   )
 
   (module Inductors_SMD:L_12x12mm_h8mm (layer F.Cu) (tedit 5990349C) (tstamp 5B4D3F41)
-    (at -64.77 72.39)
+    (at 199.39 57.15)
     (descr "Choke, SMD, 12x12mm 8mm height")
     (tags "Choke SMD")
     (path /5B42C84F/5B44C1D8)
@@ -4109,7 +4109,7 @@
   )
 
   (module Connectors_Terminal_Blocks:TerminalBlock_bornier-2_P5.08mm (layer F.Cu) (tedit 59FF03AB) (tstamp 5B4D3F47)
-    (at -220.98 93.98)
+    (at 43.18 78.74)
     (descr "simple 2-pin terminal block, pitch 5.08mm, revamped version of bornier2")
     (tags "terminal block bornier2")
     (path /5B42C84D/5B21D3D0)
@@ -4148,7 +4148,7 @@
   )
 
   (module Connectors_Terminal_Blocks:TerminalBlock_bornier-2_P5.08mm (layer F.Cu) (tedit 59FF03AB) (tstamp 5B4D3F4D)
-    (at -232.41 59.69)
+    (at 31.75 44.45)
     (descr "simple 2-pin terminal block, pitch 5.08mm, revamped version of bornier2")
     (tags "terminal block bornier2")
     (path /5B42C84D/5B21D3FD)
@@ -4187,7 +4187,7 @@
   )
 
   (module TO_SOT_Packages_SMD:SOT-23_Handsoldering (layer F.Cu) (tedit 58CE4E7E) (tstamp 5B4D3F54)
-    (at -87.63 63.5)
+    (at 176.53 48.26)
     (descr "SOT-23, Handsoldering")
     (tags SOT-23)
     (path /5B42C84F/5B469554)
@@ -4228,7 +4228,7 @@
   )
 
   (module TO_SOT_Packages_SMD:SOT-23_Handsoldering (layer F.Cu) (tedit 58CE4E7E) (tstamp 5B4D3F5B)
-    (at -201.93 74.93)
+    (at 62.23 59.69)
     (descr "SOT-23, Handsoldering")
     (tags SOT-23)
     (path /5B42C84F/5B330877)
@@ -4269,7 +4269,7 @@
   )
 
   (module TO_SOT_Packages_SMD:SOT-23_Handsoldering (layer F.Cu) (tedit 58CE4E7E) (tstamp 5B4D3F62)
-    (at -144.78 59.69)
+    (at 119.38 44.45)
     (descr "SOT-23, Handsoldering")
     (tags SOT-23)
     (path /5B42C84F/5B336DE4)
@@ -4310,7 +4310,7 @@
   )
 
   (module TO_SOT_Packages_SMD:SOT-23_Handsoldering (layer F.Cu) (tedit 58CE4E7E) (tstamp 5B4D3F69)
-    (at -172.72 54.61)
+    (at 91.44 39.37)
     (descr "SOT-23, Handsoldering")
     (tags SOT-23)
     (path /5B42C84F/5B3D117C)
@@ -4348,35 +4348,6 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-  )
-
-  (gr_line (start 82.55 130.81) (end 82.55 54.61) (angle 90) (layer Edge.Cuts) (width 0.15))
-  (gr_line (start 209.55 130.81) (end 82.55 130.81) (angle 90) (layer Edge.Cuts) (width 0.15))
-  (gr_line (start 209.55 54.61) (end 209.55 130.81) (angle 90) (layer Edge.Cuts) (width 0.15))
-  (gr_line (start 82.55 54.61) (end 209.55 54.61) (angle 90) (layer Edge.Cuts) (width 0.15))
-  (dimension 76.2 (width 0.3) (layer Dwgs.User)
-    (gr_text "3.0000 in" (at 227.41 92.71 270) (layer Dwgs.User)
-      (effects (font (size 1.5 1.5) (thickness 0.3)))
-    )
-    (feature1 (pts (xy 209.55 130.81) (xy 228.76 130.81)))
-    (feature2 (pts (xy 209.55 54.61) (xy 228.76 54.61)))
-    (crossbar (pts (xy 226.06 54.61) (xy 226.06 130.81)))
-    (arrow1a (pts (xy 226.06 130.81) (xy 225.473579 129.683496)))
-    (arrow1b (pts (xy 226.06 130.81) (xy 226.646421 129.683496)))
-    (arrow2a (pts (xy 226.06 54.61) (xy 225.473579 55.736504)))
-    (arrow2b (pts (xy 226.06 54.61) (xy 226.646421 55.736504)))
-  )
-  (dimension 127 (width 0.3) (layer Dwgs.User)
-    (gr_text "5.0000 in" (at 146.05 39.29) (layer Dwgs.User)
-      (effects (font (size 1.5 1.5) (thickness 0.3)))
-    )
-    (feature1 (pts (xy 209.55 54.61) (xy 209.55 37.94)))
-    (feature2 (pts (xy 82.55 54.61) (xy 82.55 37.94)))
-    (crossbar (pts (xy 82.55 40.64) (xy 209.55 40.64)))
-    (arrow1a (pts (xy 209.55 40.64) (xy 208.423496 41.226421)))
-    (arrow1b (pts (xy 209.55 40.64) (xy 208.423496 40.053579)))
-    (arrow2a (pts (xy 82.55 40.64) (xy 83.676504 41.226421)))
-    (arrow2b (pts (xy 82.55 40.64) (xy 83.676504 40.053579)))
   )
 
 )
